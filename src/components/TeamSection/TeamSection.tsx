@@ -17,7 +17,6 @@ interface TeamSectionProps {
 const ClickHandler = (): void => {
   window.scrollTo({ top: 10, behavior: "smooth" });
 };
-
 const TeamSection: React.FC<TeamSectionProps> = ({ tClass }) => {
   return (
     <section className={`wpo-team-section ${tClass || ""}`}>
