@@ -9,9 +9,9 @@ import gif2 from "../../images/icon/0deec720000b2066289b.gif";
 import gif3 from "../../images/icon/b10c3e43e836d32554bf.gif";
 
 // About images (3–4 images)
-import img01 from "../../images/about/img01.jpg";
-import img02 from "../../images/about/img02.jpg";
-import img03 from "../../images/about/img03.jpg";
+import img01 from "../../images/about/img01.jpeg";
+import img02 from "../../images/about/img02-2.2.jpg";
+import img03 from "../../images/about/img03-3.jpg";
 import Link from "next/link";
 
 

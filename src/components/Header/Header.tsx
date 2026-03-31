@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import logo from "../../images/logo/logo.svg";
+import logo from "../../images/logo/araizon-horizontal.png";
 import MegaMenu1 from "./MegaMenu1";
 import MegaMenuServices from "./MegaMenu2";
 import MobileMenu from "../MobileMenu/MobileMenu";
@@ -61,7 +61,7 @@ const Header: React.FC = () => {
             {/* Logo */}
             <div className="xb-header-logo">
               <Link href="/" className="logo1" onClick={handleClick}>
-                <img src={((logo as any) as any).src || ((logo as any) as any)} alt="Araizona Logo" />
+                <img src={logo.src} alt="Araizona Logo" />
               </Link>
             </div>
 
