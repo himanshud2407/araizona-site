@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import logo from "../../images/logo/logo-two.svg";
+import logo from "../../images/logo/araizon-horizontal.png";
 import MobileMenu from "../MobileMenu/MobileMenu";
 import MegaMenu1 from "../Header/MegaMenu1";
 import MegaMenuServices from "../Header/MegaMenu2";

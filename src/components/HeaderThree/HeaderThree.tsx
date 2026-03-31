@@ -3,7 +3,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { gsap } from "gsap";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
-import logo from "../../images/logo/logo.svg";
+import logo from "../../images/logo/araizon-horizontal.png";
 
 gsap.registerPlugin(ScrollToPlugin);
 

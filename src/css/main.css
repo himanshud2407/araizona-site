@@ -8859,6 +8859,7 @@ Drop Down menu end
 }
 
 .about-sec-title .title span img {
+  mix-blend-mode: screen;
   z-index: -1;
 }
 
